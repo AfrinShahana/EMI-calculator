@@ -51,12 +51,6 @@ Amount | Interest | EMI | Processing Fee | Monthly EMI | Total Interest | Proces
 50000 | 10 | 1000 | 5% | 1000 | 14949.12 | 2500 | 64949.12 | 5 | 5
 
 ```
-## Prerequisites:
-
-- Install Android Studio latest version
-- Install Appium Inspector
-- Install jdk 8 or any LTS version
-- Configure ANDROID_HOME, JAVA_HOME and GRADLE_HOME
 
 ## Allure Report:
 
@@ -64,7 +58,7 @@ Amount | Interest | EMI | Processing Fee | Monthly EMI | Total Interest | Proces
 ![y11](https://user-images.githubusercontent.com/123531000/224468030-d9df1b8a-9813-4392-91f0-43f048932d4d.png)
 
 
-# Video Outp
+# Video:
 
 
 [screen-capture (4).webm](https://user-images.githubusercontent.com/123531000/224468044-3caf25d4-740a-4d68-8568-3107d00a1f9c.webm)
